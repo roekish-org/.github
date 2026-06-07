@@ -8,7 +8,7 @@
 We publish the playbooks, templates, and tooling we use on real client projects — for free.
 
 [![Website](https://img.shields.io/badge/roekish.com-0F2230?style=flat-square)](https://roekish.com)
-[![Odoo 17 + 18](https://img.shields.io/badge/Odoo-17%20%7C%2018-714B67?style=flat-square)](#)
+[![Odoo 17 | 18 | 19](https://img.shields.io/badge/Odoo-17%20%7C%2018%20%7C%2019-714B67?style=flat-square)](#)
 [![Region: France / EU](https://img.shields.io/badge/Region-France%20%2F%20EU-C75B39?style=flat-square)](#)
 [![License: MIT / CC BY 4.0](https://img.shields.io/badge/License-MIT%20%2F%20CC%20BY%204.0-2E7D5B?style=flat-square)](#)
 
@@ -50,7 +50,7 @@ If our public material doesn't reproduce against a fresh Odoo instance, neither 
 Everything we publish follows three rules:
 
 1. **Honest** — no marketing language inside the playbooks themselves.
-2. **Reproducible** — every snippet runs against a stated Odoo version (17.0 / 18.0).
+2. **Reproducible** — every snippet runs against a stated Odoo version (17.0 / 18.0 / 19.0).
 3. **Region-aware** — France/EU specifics (GDPR, l10n_fr, e-invoicing) are flagged explicitly.
 
 ## Contributing
