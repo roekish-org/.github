@@ -33,16 +33,17 @@ If our public material doesn't reproduce against a fresh Odoo instance, neither 
 | Repository | What it is | License |
 |---|---|---|
 | [**Odoo-Implementation-Playbooks**](https://github.com/roekish-org/Odoo-Implementation-Playbooks) | Practitioner-grade, end-to-end playbooks: inventory, FR accounting, migrations, discovery templates. Scope, menu paths, validation checklists, and real hour/price anchors. | CC BY 4.0 |
+| [**roekish-addons**](https://github.com/roekish-org/roekish-addons) | Reference custom Odoo 18 modules — French legal invoice mentions (`roe_l10n_fr_invoice_mentions`) and a conventions skeleton — with the Dockerised Odoo 18 + Postgres dev stack, an addon scaffolder, and CI that installs/upgrades each module. | LGPL-3 |
 | [**twenty-app-cal-bridge**](https://github.com/roekish-org/twenty-app-cal-bridge) | A native [Twenty CRM](https://twenty.com) app connecting Cal.com bookings to CRM records via signed webhooks. | MIT |
 
-> More repos are published as we go — migration runbooks, a reproducible Odoo dev/staging stack, and reference custom modules. Watch this org to follow along.
+> More repos are published as we go — migration runbooks and more reference modules (Factur-X / e-invoicing helpers). Watch this org to follow along.
 
 ## What you'll find here (and what's coming)
 
 - ✅ **Implementation playbooks** — inventory, French accounting (l10n_fr / PCG), Sage → Odoo migration.
 - ✅ **Reusable templates** — discovery questionnaire, UAT sign-off, go-live checklist.
-- 🔜 **Self-hosted Odoo dev stack** — Dockerised, pinned versions, reproducible in minutes.
-- 🔜 **Reference custom modules** — French legal invoice mentions, Factur-X / e-invoicing helpers.
+- ✅ **Self-hosted Odoo dev stack** — Dockerised, pinned versions, reproducible in minutes (ships in [`roekish-addons`](https://github.com/roekish-org/roekish-addons)).
+- ✅ **Reference custom modules** — French legal invoice mentions, with more (Factur-X / e-invoicing helpers) to come — see [`roekish-addons`](https://github.com/roekish-org/roekish-addons).
 - 🔜 **Migration runbooks** — Sage, EBP, Cegid → Odoo, with data-mapping templates.
 
 ## How we work
